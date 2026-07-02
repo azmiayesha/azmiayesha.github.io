@@ -8,17 +8,15 @@ redirect_from:
 ---
 
 I am a PhD applicant in Computer Science for Spring 2027/Fall 2027,broadly interested in the security and trustworthiness of AI-assisted software 
-systems.I am a Research Contributor at [ELITE Lab](https://web.elitelab.ai/) while also currently serving as a Software Engineer at [Brain Station 23](https://brainstation-23.com/), building production systems in telecommunications and fintech.
+systems.I am a Research Contributor at [ELITE Lab](https://web.elitelab.ai/), and I currently work as a  Software Engineer at [Brain Station 23](https://brainstation-23.com/), building production systems in  telecommunications and fintech.
 
-My research centers on the security implications of LLM-assisted software development. While much attention has gone to the security of LLM-generated code, less is known about how security properties hold up across the full range of ways LLMs now participate in the software development lifecycle — from code transformation to more autonomous, agentic execution. I investigate this gap, examining how automated LLM-driven changes to existing code interact with the security-sensitive properties of that 
-code.
+My focus is on the security implications of software development with LLMs. While there is a lot of existing work on the security of LLM-generated code, not much research has been conducted on security when LLMs take on a larger role in the code development process — whether modifying existing code or performing more autonomous, agentic tasks. I've been exploring this question through my research work currently under revision, looking at how LLM-driven changes to code affect its security properties.
 
 I am also interested in Privacy-Enhancing Technologies (PETs) and their application to AI-assisted development tools, as well as the broader trustworthiness and security of AI/ML-integrated software systems.
 
 My engineering experience—spanning secure microservices, distributed backend systems, encrypted data pipelines, and identity verification systems—grounds this research in practical, production-scale security challenges rather than purely theoretical concerns.
 
-I welcome opportunities for research discussions and collaboration in LLM security, secure software engineering, and trustworthy AI systems.
-
+I am actively looking for PhD positions and welcome opportunities for research discussions and collaboration in LLM security, secure software engineering, and trustworthy AI systems.
 
 Research Interests
 ====== 
