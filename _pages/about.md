@@ -1,11 +1,35 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a PhD applicant in Computer Science for Spring 2027/Fall 2027. My research interests include AI-Assisted Software Engineering, Trustworthy and Secure Large Language Model (LLM) Systems, Software Security and Vulnerability Analysis, and LLM Security for software development. I am a Research Contributor at [ELITE Lab](https://web.elitelab.ai/)
+ while also currently serving as a Software Engineer at [Brain Station 23](https://brainstation-23.com/), building production systems in telecommunications and fintech.
+
+My research centers on the security implications of LLM-assisted software development. While much attention has gone to the security of LLM-generated code, less is known about how security properties hold up across the full range of ways LLMs now participate in the software development lifecycle — from code transformation to more autonomous, agentic execution. I investigate this gap, examining how automated LLM-driven changes to existing code interact with the security-sensitive properties of that 
+code.
+
+I am also interested in Privacy-Enhancing Technologies (PETs) and their application to AI-assisted development tools, as well as the broader trustworthiness and security of AI/ML-integrated software systems.
+
+My engineering experience—spanning secure microservices, distributed backend systems, encrypted data pipelines, and identity verification systems—grounds this research in practical, production-scale security challenges rather than purely theoretical concerns.
+
+I welcome opportunities for research discussions and collaboration in LLM security, secure software engineering, and trustworthy AI systems.
+
+
+
+
+
+
+
+
+
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
