@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer | LLM Security & Secure Software Engineering"
   location         : "Dhaka, Bangladesh"
-  employer         : "Brainstation-23 | Elite Research Lab LLC"
+  employer         : "Brainstation-23 | Elite Research Lab"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  Google Scholar   : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
