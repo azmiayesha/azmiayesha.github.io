@@ -2,8 +2,7 @@
 ---
 title: "Security Implications of LLM-Assisted Code Refactoring"
 collection: publications
-category: manuscripts
-permalink: /publication/2026-llm-refactoring-security
+permalink: /publication/Security Implications of LLM-Assisted Code Refactoring
 excerpt: 'A mini-review examining how LLM-assisted code refactoring may inadvertently weaken security properties in the code they transform.'
 date: 2026-07-02
 venue: 'In preparation'
