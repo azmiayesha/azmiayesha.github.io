@@ -10,4 +10,4 @@ venue: "In Preparation"
 citation: "Azmi, A. Security Implications of LLM-Assisted Code Refactoring. (In preparation)."
 ---
 
-This mini-review examines how large language model, such as GitHub  Copilot, may inadvertently weaken security properties during automated code refactoring. The work surveys existing literature on LLM-assisted code generation security and identifies a gap in understanding how security-sensitive properties are affected when LLMs modify existing code. Currently under preparation.
+This mini-review examines how large language model, such as GitHub  Copilot, may inadvertently weaken security properties during automated code refactoring. The work surveys existing literature on LLM-assisted code generation security and identifies a gap in understanding how security-sensitive properties are affected when LLMs modify existing code. Currently under preparation. .
