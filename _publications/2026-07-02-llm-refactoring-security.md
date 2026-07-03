@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-07-02-llm-refactoring-security
 excerpt: "A mini-review examining how LLM-assisted code refactoring may inadvertently weaken security properties in the code they transform."
-date: 2024-07-02
+date: 2026-07-02
 venue: "In Preparation"
 citation: "Azmi, A. Security Implications of LLM-Assisted Code Refactoring. (In preparation)."
 ---
