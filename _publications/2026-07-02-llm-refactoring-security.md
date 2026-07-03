@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-07-02-llm-refactoring-security
 excerpt: "A mini-review examining how LLM-assisted code refactoring may inadvertently weaken security properties in the code they transform."
-date: 2026-07-02
+date: 2024-07-02
 venue: "In Preparation"
 citation: "Azmi, A. Security Implications of LLM-Assisted Code Refactoring. (In preparation)."
 ---
 
-This mini-review examines how large language models, such as GitHub Copilot, may inadvertently weaken security properties during automated code refactoring. The work surveys existing literature on code security and analyzes potential vulnerabilities introduced by LLM-assisted transformations.
+This mini-review examines how large language models, such as GitHub Copilot, may inadvertently weaken security properties during automated code refactoring. The work surveys existing literature on code refactoring, LLM capabilities and limitations, and security implications in software engineering.
